@@ -1,0 +1,8 @@
+1	CreditCardAccount	2019-03-21T10:45:03.337
+1	LineOfCreditAccount	2019-03-21T10:45:03.338
+1	ChequingAccount	2019-03-25T16:22:45.898
+1	SavingAccount	2019-03-25T16:22:45.899
+1	CreditCardAccount	2019-03-25T16:22:45.900
+1	LineOfCreditAccount	2019-03-25T16:22:45.900
+1	CreditCardAccount	2019-03-28T13:50:32.025
+1	SavingAccount	2019-03-30T15:45:12.444
